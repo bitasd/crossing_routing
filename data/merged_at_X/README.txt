@@ -1,0 +1,2 @@
+merge_1.gpkg is the umbrella layer with lines merged at multinode intersections with excessive geometries removed
+merge_1 - Copy.gpkg has the excessive geometries  (with closed geometry or same start and end) 
